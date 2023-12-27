@@ -1,0 +1,23 @@
+
+*.txt
+*.c
+*.h
+*.yaml
+*.exe
+*.obj
+*.bin
+*.cmake
+*.ipch
+*.db
+.vs/RamanujanPi/v17/Browse.VC.db-shm
+*.db-wal
+*.opendb
+*.vsidx
+.vs/slnx.sqlite
+*.json
+.vs/RamanujanPi/v17/.wsuo
+*.ninja
+*.check_cache
+*.log
+.vs/CMake Overview
+out/build/x64-Debug/CMakeFiles/3.26.4-msvc4/CompilerIdCXX/CMakeCXXCompilerId.cpp
